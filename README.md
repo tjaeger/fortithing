@@ -1,3 +1,5 @@
+![FortiThing](/_asset/fortithing.png)
+
 # FortiThing v2 
 
 ## Hardware
