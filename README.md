@@ -1,5 +1,5 @@
-![Datasheet](/_asset/Datasheet.pdf)
-![Schematics](/blob/main/hardware/FortiThing%20v2.0%20rev.A%20SCHEMATICS.pdf)
+[Datasheet](/_asset/Datasheet.pdf)
+[Schematics](/blob/main/hardware/FortiThing%20v2.0%20rev.A%20SCHEMATICS.pdf)
 
 ![FortiThing](/_asset/fortithing.png)
 
