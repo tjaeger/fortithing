@@ -2,6 +2,8 @@
 
 [Schematics](/hardware/FortiThing%20v2.0%20rev.A%20SCHEMATICS.pdf)
 
+[Docu on fortithing.readthedocs.io](https://fortithing.readthedocs.io/en/latest/)
+
 ![FortiThing](/_asset/fortithing.png)
 
 # FortiThing v2 
