@@ -15,6 +15,7 @@ least that thing has to be able to blink.
 FortiThing is helping interested Audience and geeks to get a grasp on IoT.
 It's a "fortified" shaped Microcontroller Platform with Sensors and Actors.
 
+Repository can be found on [Github](https://github.com/tjaeger/fortithing.git)
 
 .. image:: img/fth-front-pcb-graphic.png
    :scale: 50 %

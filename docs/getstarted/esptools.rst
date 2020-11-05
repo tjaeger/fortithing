@@ -29,8 +29,8 @@ Footnote 2 [#]_
    Python 3.8.2
 
 
-Install ESPTools
-----------------
+Install ESPTools directly
+-------------------------
 
 .. code-block:: bash
 
@@ -42,6 +42,20 @@ Install ESPTools
 
    ESPTools are needed to flash Firmware (unless you use Arduino) to FortiThing. For Example if you need to flash Micropython Firmware.
 
+
+Install ESPTools in Docker
+-------------------------
+
+.. code-block:: bash
+
+$ docker pull espressif/idf:latest
+Status: Downloaded newer image for espressif/idf:latest
+docker.io/espressif/idf:latest
+
+.. note::
+
+This pulls "latest" IDF. You also can specify a specific Version, see https://hub.docker.com/r/espressif/idf/tags
+for available images.
 
 .. [#] Footnote test.
 .. [#] Footnote2 test.
